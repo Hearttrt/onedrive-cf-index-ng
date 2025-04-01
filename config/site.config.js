@@ -13,8 +13,8 @@ module.exports = {
   // /public directory of your GitHub project (not your OneDrive folder!), and referenced here by its relative path to /public.
   icon: '/icons/128.png',
 
-  // The name of your website. Present alongside your icon.
-  title: "lyc8503's OneDrive",
+  // The name of your website. Present alongside your icon. Switch to my name
+  title: "0.0's OneDrive",
 
   // The folder that you are to share publicly with onedrive-cf-index-ng. Use '/' if you want to share your root folder.
   baseDirectory: process.env.BASE_DIRECTORY || '/',
